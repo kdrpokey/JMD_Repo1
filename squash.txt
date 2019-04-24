@@ -1,1 +1,3 @@
 this is a new file for testing the squash command
+
+adding some stuff to create a new commit
